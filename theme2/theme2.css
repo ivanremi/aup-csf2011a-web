@@ -1,0 +1,111 @@
+nav{
+	float: right;
+	font-size: 15px;	
+}
+nav a{
+	padding:0px 10px;
+}
+.categories ul{
+	float: left;
+	font-size: 14px;
+	padding: 23px;	
+}
+li, nav, nav a, a{
+	text-decoration: none;
+	list-style: none;
+}
+.posts{
+	border: solid 1px white;
+	float: left;
+	width: 500px;
+	height: 390px;
+	background-color:lightgrey;
+	margin: 10px 495px 0px 20px;
+	
+}
+ .posts2{
+	float: left;
+	width: 400px;
+	height: 400px;
+	margin: 65px 495px 0px 20px;
+}
+#right{
+	width:150px;
+	height:400px;
+	float:right;
+	padding:5px;
+	margin: -700px 250px;
+	}
+#right2{
+	width:200px;
+	height:400px;
+	float:right;
+	padding:5px;
+	margin: -840px 0px;
+}
+
+.scatnav {
+	list-style-type:none;
+}
+.scatnav li{
+	margin-left:-40px;
+	font-size:12px;
+}
+ }
+ .li{
+ 	display:list-item;
+ }
+h3{
+	font-size:1.17em;
+}
+
+html{
+	border: solid 1px white;
+	width: 1000px;
+	margin: 10px auto;
+}
+.main{
+	width:1000px;
+	font-family:"Calibri";
+	font-size:14px;
+	color:gray;
+}
+h2{
+	font-family:"Calibri";
+	font-size:14px;
+	color: grey;
+	margin: -45px 0px 0px 105px;
+}
+h1{
+	color:teal;
+	font-weight:bold;
+	font-size: 32px;
+}
+#comment{
+	border: 1px grey;
+	width:150px;
+	height: 369px;
+	float:left;
+}
+#comment2{
+	border: 1px;
+	width:150px;
+	height: 500px;
+	float:left;
+}
+nav a, a, h3{
+	color:DodgerBlue;
+}	
+h4, p{
+color: gray;
+}
+li{
+font-weight: bold;
+}
+#right2 button {
+background-color: grey;
+color: white;
+border: 1px solid grey;
+float: right;
+margin: 0px -45px ;
+}
